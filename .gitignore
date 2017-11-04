@@ -8,3 +8,5 @@ node_modules/
 compiled/
 
 ## API Keys ##
+react-client/config/dictionary.js
+compiled/react-client/config/dictionary.js
